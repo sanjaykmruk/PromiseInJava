@@ -1,8 +1,8 @@
 ## Example files for the title:  
 	  
-# Asynchronous Programming in Java, by Richard Warburton
+# Programming Promises in Java 8, by Richard Warburton and Raoul-Gabriel Urma
 	  
-[![Asynchronous Programming in Java, by Richard Warburton](http://akamaicovers.oreilly.com/images/9781491990117/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491990124//)
+[![Asynchronous Programming in Java, by Richard Warburton and Raoul-Gabriel Urma](http://akamaicovers.oreilly.com/images/9781491990117/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491990124//)
 	  
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
 	  
